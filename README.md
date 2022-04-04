@@ -2,8 +2,8 @@
 
 ![Alt text](readme.images/taxi-logo.png?raw=true "Database")
 
-This is simple Web application supports authentication, registration, other CRUD operations and simulates a work of simple taxi service.
-Program has next functions:
+This is a simple Web application that supports authentication, registration, other CRUD operations and simulates a work of a simple taxi service.
+It provides following functionality:
 - display all Drivers
 - display all Cars
 - display all current Cars
@@ -28,7 +28,7 @@ Program has next functions:
 - JSP
 - HTML, CSS
 ---
-## Steps to reproduce
+## How to run a project
 To correctly use this service you have to install MySQL and Apache Tomcat version 9.
 1. Configure Apache Tomcat for your IDE.
 2. Use ```/resources/init_db.sql``` for creating a Schema and tables.
